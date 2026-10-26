@@ -1,0 +1,45 @@
+{
+  "topic": "IA",
+  "time": "08:00",
+  "language": "es",
+  "port": 8787,
+  "fetch": {
+    "query": "(\"inteligencia artificial\" OR \"AI\" OR LLM OR agentes) min_likes:500 -is:reply -is:retweet (lang:es OR lang:en)",
+    "lookback_hours": 48,
+    "max_results": 25,
+    "sort_order": "relevancy",
+    "post_fields": "created_at,public_metrics,author_id,lang,conversation_id,note_tweet,referenced_tweets",
+    "expansions": "author_id",
+    "user_fields": "name,username,public_metrics"
+  },
+  "filter": {
+    "min_likes": 15,
+    "min_reposts": 3,
+    "min_text_chars": 250,
+    "languages": [
+      "es",
+      "en"
+    ],
+    "include_regex": "\\b(ai|ia|llms?|gpt|chatgpt|openai|anthropic|claude|gemini|agents?|agentes?|inteligencia artificial|artificial intelligence|machine learning)\\b",
+    "exclude_regex": [
+      "r18",
+      "nsfw",
+      "\\b\\d+\\+? (free )?ai tools\\b",
+      "accounts to follow in ai",
+      "\\bfree\\b.*\\b(courses?|tools)\\b",
+      "ultra premium domain",
+      "\\b(web3|altcoins?|airdrops?|bull run|memecoin)\\b",
+      "ai isn.t just the future",
+      "\\b\\d+\\+? (websites|tools|prompts|ways|courses)\\b"
+    ],
+    "max_saved": 8
+  },
+  "tags": {
+    "Agentes": "\\bagent(s|es|ic)?\\b|\\bagentes?\\b",
+    "Salud": "\\b(médic\\w*|salud|health\\w*|cáncer|clínic\\w*)\\b",
+    "Regulación": "\\b(govt|government|gobierno|ley|regulat\\w*|policy|policía|security institute|ministerio)\\b",
+    "Autoría y arte": "\\b(autor\\w*|derechos? de autor|copyright|artists?|art|escrit\\w*|literari\\w*)\\b",
+    "Educación": "\\b(educaci\\w*|estudiantes?|students?|aprend\\w*|learn\\w*)\\b",
+    "Economía": "\\b(econom\\w*|empresas?|companies|company|mercado|pay)\\b"
+  }
+}

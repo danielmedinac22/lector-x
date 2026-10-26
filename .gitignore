@@ -1,0 +1,7 @@
+raw/
+data/*
+!data/.gitkeep
+logs/
+__pycache__/
+*.pyc
+*.tmp

@@ -1,0 +1,25 @@
+{
+  "id": "9000000000000000003",
+  "url": "https://example.com/ejemplo/carla_demo/9000000000000000003",
+  "author_name": "Carla Demo",
+  "author_username": "carla_demo",
+  "text": "Datos sintéticos: una herramienta útil, no una varita mágica.\n\nSirven para ampliar casos raros y probar sistemas sin exponer información real. Pero si el generador comete un sesgo, el modelo lo aprende y lo amplifica. Mezcla siempre datos sintéticos con una muestra real y mide la diferencia.",
+  "created_at": "2026-10-25T07:10:00-05:00",
+  "metrics": {
+    "likes": 930,
+    "reposts": 101,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 0,
+    "impressions": 24100
+  },
+  "topic": "IA",
+  "fetched_at": "2026-10-25T08:00:00-05:00",
+  "recommended": false,
+  "why": "",
+  "sample": true,
+  "tags": [
+    "Modelos",
+    "Aprendizaje"
+  ]
+}

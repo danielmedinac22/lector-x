@@ -1,0 +1,24 @@
+{
+  "id": "9000000000000000001",
+  "url": "https://example.com/ejemplo/ana_ejemplo/9000000000000000001",
+  "author_name": "Ana Ejemplo",
+  "author_username": "ana_ejemplo",
+  "text": "Los benchmarks de modelos de lenguaje sirven para comparar, pero no para decidir por ti.\n\nUn modelo puede liderar una tabla pública y aun así fallar en tu caso de uso concreto. Antes de adoptar uno, arma un pequeño conjunto de 20 o 30 ejemplos reales de tu trabajo, córrelo con cada candidato y revisa las respuestas a mano.\n\nLa mejor evaluación es la que se parece a lo que realmente vas a pedirle.",
+  "created_at": "2026-10-24T14:05:00-05:00",
+  "metrics": {
+    "likes": 1840,
+    "reposts": 212,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 0,
+    "impressions": 52000
+  },
+  "topic": "IA",
+  "fetched_at": "2026-10-25T08:00:00-05:00",
+  "recommended": false,
+  "why": "",
+  "sample": true,
+  "tags": [
+    "Modelos"
+  ]
+}

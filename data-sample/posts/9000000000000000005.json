@@ -1,0 +1,24 @@
+{
+  "id": "9000000000000000005",
+  "url": "https://example.com/ejemplo/elena_imaginaria/9000000000000000005",
+  "author_name": "Elena Imaginaria",
+  "author_username": "elena_imaginaria",
+  "text": "Una idea para el próximo año: medir la IA no solo por lo que puede hacer, sino por lo que cuesta correrla.\n\nUn modelo más pequeño y bien ajustado resuelve muchas tareas con una fracción del cómputo. Preguntarse '¿qué es lo mínimo que alcanza?' ahorra tiempo, dinero y energía.",
+  "created_at": "2026-10-25T09:20:00-05:00",
+  "metrics": {
+    "likes": 760,
+    "reposts": 88,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 0,
+    "impressions": 19800
+  },
+  "topic": "IA",
+  "fetched_at": "2026-10-25T08:00:00-05:00",
+  "recommended": false,
+  "why": "",
+  "sample": true,
+  "tags": [
+    "Modelos"
+  ]
+}

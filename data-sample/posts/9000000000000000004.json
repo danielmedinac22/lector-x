@@ -1,0 +1,24 @@
+{
+  "id": "9000000000000000004",
+  "url": "https://example.com/ejemplo/diego_ficticio/9000000000000000004",
+  "author_name": "Diego Ficticio",
+  "author_username": "diego_ficticio",
+  "text": "Usar IA para estudiar funciona mejor si primero intentas tú.\n\nRegla simple: escribe tu propia respuesta o hipótesis, y solo después pídele al asistente que la critique. Así practicas el razonamiento en lugar de delegarlo. Si solo copias la respuesta final, aprendes mucho menos de lo que parece.",
+  "created_at": "2026-10-25T08:45:00-05:00",
+  "metrics": {
+    "likes": 2210,
+    "reposts": 340,
+    "replies": 0,
+    "quotes": 0,
+    "bookmarks": 0,
+    "impressions": 71000
+  },
+  "topic": "IA",
+  "fetched_at": "2026-10-25T08:00:00-05:00",
+  "recommended": true,
+  "why": "Propone una regla práctica y fácil de aplicar: razonar primero por tu cuenta y usar la IA solo para criticar tu respuesta.\nExplica por qué copiar la respuesta final reduce lo que aprendes.\n[Post de ejemplo con autor ficticio, solo para mostrar la app.]",
+  "sample": true,
+  "tags": [
+    "Aprendizaje"
+  ]
+}

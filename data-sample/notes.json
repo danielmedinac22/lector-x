@@ -1,0 +1,32 @@
+[
+  {
+    "id": "nt000000001",
+    "post_id": "9000000000000000004",
+    "highlight_id": "hl000000003",
+    "highlight_text": "escribe tu propia respuesta o hipótesis, y solo después pídele al asistente que la critique",
+    "body": "[Ejemplo] Probar esto con mis próximas lecturas: primero resumo yo, luego comparo con el asistente.",
+    "why": "[Ejemplo] Quiero un hábito concreto para no delegar el razonamiento.",
+    "created_at": "2026-10-24T20:16:00-05:00",
+    "updated_at": "2026-10-24T20:16:00-05:00"
+  },
+  {
+    "id": "nt000000002",
+    "post_id": "9000000000000000001",
+    "highlight_id": "hl000000001",
+    "highlight_text": "La mejor evaluación es la que se parece a lo que realmente vas a pedirle.",
+    "body": "[Ejemplo] Armar un set de 20 casos reales y revisarlo a mano.",
+    "why": "[Ejemplo] Sirve de criterio para elegir entre modelos sin fiarme solo de tablas públicas.",
+    "created_at": "2026-10-25T09:41:00-05:00",
+    "updated_at": "2026-10-25T09:41:00-05:00"
+  },
+  {
+    "id": "nt000000003",
+    "post_id": "9000000000000000005",
+    "highlight_id": null,
+    "highlight_text": "",
+    "body": "[Ejemplo] Idea: al evaluar una solución, anotar también el costo de correrla.",
+    "why": "[Ejemplo] Conectar con la idea de modelos pequeños para tareas simples.",
+    "created_at": "2026-10-25T09:50:00-05:00",
+    "updated_at": "2026-10-25T09:50:00-05:00"
+  }
+]
